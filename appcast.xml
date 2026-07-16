@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Command Station</title>
+        <item>
+            <title>0.5.0</title>
+            <pubDate>Thu, 16 Jul 2026 10:53:35 -0700</pubDate>
+            <sparkle:version>0.5.0</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/IsaacYeung/giter-updates/releases/download/v0.5.0/Giter-0.5.0.zip" length="9770306" type="application/octet-stream" sparkle:edSignature="8l7qWUQSjJ/QFTjeyijtLIhqe/0owWq7bsmtaUzkvCOd7HkxNfZJRRoUWkwlUxv1psVNChAnFdtA2d3WdJMZCQ=="/>
+        </item>
+        <item>
+            <title>0.4.0</title>
+            <pubDate>Mon, 13 Jul 2026 05:51:27 -0700</pubDate>
+            <sparkle:version>0.4.0</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/IsaacYeung/command-station/releases/download/v0.4.0/CommandStation-0.4.0.zip" length="9791419" type="application/octet-stream" sparkle:edSignature="Qh3DuFQ2bugMKHLzq4l7heG9iziJUBjuG1vo9Lc1hl7UKDqg6MCEcLPTOCChreRcF1KmXGNFM8zbw9H3WlcVDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/IsaacYeung/command-station/releases/download/v0.4.0/Command.Station0.4.0-0.3.3.delta" sparkle:deltaFrom="0.3.3" length="417038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CsJvu8cdKP8SlFmNmJUgz/qZU3L+PusiZQ9ZEB98NtN+f74y+Fy/i4QVOxe81mYjMQk8bdCSo906RT93pXd4Dg=="/>
+                <enclosure url="https://github.com/IsaacYeung/command-station/releases/download/v0.4.0/Command.Station0.4.0-0.3.2.delta" sparkle:deltaFrom="0.3.2" length="486130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EvBv/GZClKgty0j0UJ4kqSvTvcOst+fYFXD2NTgNaU0n4ObUSHItNJc3aB26zW7g5C1/Nf0zlbGEMs/jks76BQ=="/>
+                <enclosure url="https://github.com/IsaacYeung/command-station/releases/download/v0.4.0/Command.Station0.4.0-0.3.1.delta" sparkle:deltaFrom="0.3.1" length="2341934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="B/bVKLYr/mehgFnuK+gg9Z8aM5I5SdBxJq158+Ekves5p8UDL/9I5d6i2lH4vAb2VCpNvOOc6zrYVQ2Qu4qmAw=="/>
+                <enclosure url="https://github.com/IsaacYeung/command-station/releases/download/v0.4.0/Command.Station0.4.0-0.3.0.delta" sparkle:deltaFrom="0.3.0" length="2362986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LZNTBa7cvS71dGx7PZUJf+RK7uE/7KuhquJ4FZ8EfByY2e/Oy3CRl9yowhAJNw0O2DiT53BuTSmLaaZeMV7aDw=="/>
+                <enclosure url="https://github.com/IsaacYeung/command-station/releases/download/v0.4.0/Command.Station0.4.0-0.2.6.delta" sparkle:deltaFrom="0.2.6" length="2440846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2n2hwBypzVODSS1DhIZik8oG5JXPn9jAgjJzzoPA5NEXmxbx/qoKO8YjiKYGf83fZeEa54Vy7BHSPCYGHWdhBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.3.3</title>
+            <pubDate>Fri, 10 Jul 2026 18:08:25 -0700</pubDate>
+            <sparkle:version>0.3.3</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/IsaacYeung/command-station/releases/download/v0.3.3/CommandStation-0.3.3.zip" length="9562624" type="application/octet-stream" sparkle:edSignature="aWjVcGIZvKNY2O5NAWHPnQ+WgMmkaxCCleZqLhaauQXpUOfeIKeH54Wlag8Wep3s802OtDyQi8HciC1s61zMCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/IsaacYeung/command-station/releases/download/v0.3.3/Command.Station0.3.3-0.3.2.delta" sparkle:deltaFrom="0.3.2" length="225582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AeUO5ViQsVFcF5x3dYBqx/QvTjYeAhZAdiUAkMXI5Mcb8LKf0KGFKpDouH3t4iTSv2yicsE2LlqQ1OskEd2VAg=="/>
+                <enclosure url="https://github.com/IsaacYeung/command-station/releases/download/v0.3.3/Command.Station0.3.3-0.3.1.delta" sparkle:deltaFrom="0.3.1" length="2098730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RHe6+tRlh6ZJ3li95FhT4PtdgSIWWE0B6pF2QoO6LCJBWeaHqyeWnzRzsKWWPSGfb3GIPhdxuwQe93MM+YI8DA=="/>
+                <enclosure url="https://github.com/IsaacYeung/command-station/releases/download/v0.3.3/Command.Station0.3.3-0.3.0.delta" sparkle:deltaFrom="0.3.0" length="2125030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7/2HRpGt34ZmI8T7b6fAsPzppPHR4ek2ZB38iCQAXX+RccA6ywImjiWE7F9TrNlTFbMJ4ZiGa2zIYZcCbsSKCA=="/>
+                <enclosure url="https://github.com/IsaacYeung/command-station/releases/download/v0.3.3/Command.Station0.3.3-0.2.6.delta" sparkle:deltaFrom="0.2.6" length="2209166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dNU+FfEZ4eiDH2W8bGFViNpPs/rdjbaG9K3u9HEntmZhZbIMmU2kZh+XGIgA4I7pbDff3iTEtJDdpOXcSna/Bw=="/>
+                <enclosure url="https://github.com/IsaacYeung/command-station/releases/download/v0.3.3/Command.Station0.3.3-0.2.5.delta" sparkle:deltaFrom="0.2.5" length="2212858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="26PZaRlBeALZgSy6Qo4gkUT3zw4+/ykysVZ28dl2oOs/19sQ2ueQzAakTfU6PjM/tHgw0dDZgB7CZuVkRff6BQ=="/>
+            </sparkle:deltas>
+        </item>
+    </channel>
+</rss>
