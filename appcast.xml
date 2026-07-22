@@ -3,18 +3,27 @@
     <channel>
         <title>Giter</title>
         <item>
+            <title>0.5.5</title>
+            <pubDate>Wed, 22 Jul 2026 13:47:16 -0700</pubDate>
+            <sparkle:version>0.5.5</sparkle:version>
+            <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/IsaacYeung/giter-updates/releases/download/v0.5.5/Giter-0.5.5.zip" length="11669489" type="application/octet-stream" sparkle:edSignature="Sn50O0wpqryRc064ikVZC34g91ggYWLxfaNOtP0k/L4FgjvU+fH7YnFQOUenfH9EmLAOsj96o7IQ29WuUPKaCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/IsaacYeung/giter-updates/releases/download/v0.5.5/Giter0.5.5-0.5.4.delta" sparkle:deltaFrom="0.5.4" length="514554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Y4xpJxryBDOw3f49nvUGQDAfXP/7zhiZ2OjkPbSg49LnP27KIm95lA9MeJaQmOxkZxJQ+C9GE5zXumgE702iBQ=="/>
+                <enclosure url="https://github.com/IsaacYeung/giter-updates/releases/download/v0.5.5/Giter0.5.5-0.5.3.delta" sparkle:deltaFrom="0.5.3" length="934918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QA4bwm3SzdNZUy3l5A3IALoRixrD3AmdKk1RBWecnCtkrn/bhl1UAk5XkgftpnlFGDg6n2utRTXyEMpti4kIBw=="/>
+                <enclosure url="https://github.com/IsaacYeung/giter-updates/releases/download/v0.5.5/Giter0.5.5-0.5.2.delta" sparkle:deltaFrom="0.5.2" length="959230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pm1RNHl8l+YXf1IpeZYapOeOuTwJp6BsugyJmFyHRit6IwmzvIr08P6ohDiO+/On7dFbz+mRhFww39wtOyZKCA=="/>
+                <enclosure url="https://github.com/IsaacYeung/giter-updates/releases/download/v0.5.5/Giter0.5.5-0.5.1.delta" sparkle:deltaFrom="0.5.1" length="1433418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QU6tx7KBv0xKA+XUvAtLqEjPIuOWRXCJF89f5RTC8XVp2wfeGiq4S7z4tr4KBppjIuRalTySgtmmk7feC3mdBg=="/>
+                <enclosure url="https://github.com/IsaacYeung/giter-updates/releases/download/v0.5.5/Giter0.5.5-0.5.0.delta" sparkle:deltaFrom="0.5.0" length="1491162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xfKghw8O4HSPhW3R/5JcM+eyqQ3UxaU0V8ZzaNIg8loyfVV7wq1ISlSRTkCGnQ/5gmTl7MRXKFbZdCkRxpHnDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5.4</title>
             <pubDate>Mon, 20 Jul 2026 18:08:10 -0700</pubDate>
             <sparkle:version>0.5.4</sparkle:version>
             <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/IsaacYeung/giter-updates/releases/download/v0.5.4/Giter-0.5.4.zip" length="11640159" type="application/octet-stream" sparkle:edSignature="HFGJ8wUjRZR3TCT/dwWjNpUcPjkoyiS7ZPE7cxziMmg6+zGsvTWrEmEVLfOmlRlmqvguOnIirhm3ljjRltrVBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/IsaacYeung/giter-updates/releases/download/v0.5.4/Giter0.5.4-0.5.3.delta" sparkle:deltaFrom="0.5.3" length="886274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vBElrTQk2T6FuPjqRN2Bu4vwtXh6jSf6G82ue8Q3xJHh6+R+3t9gwrpWvte8qZb8MXHR1I0pyroAsEXfgT5BAA=="/>
-                <enclosure url="https://github.com/IsaacYeung/giter-updates/releases/download/v0.5.4/Giter0.5.4-0.5.2.delta" sparkle:deltaFrom="0.5.2" length="916598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Gwxv6M72b+T/887/gZ3wnpMpWlrEiBvc86GmTa1SB7FObMQ+YD4cfR8baWB5t8dbl/wo9EjWcwkjKqVdCheRCw=="/>
-                <enclosure url="https://github.com/IsaacYeung/giter-updates/releases/download/v0.5.4/Giter0.5.4-0.5.1.delta" sparkle:deltaFrom="0.5.1" length="1406146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZOUajtTj9lwH72NLdYFwAdB+TMLKYGetnIi8HT7DOmp73z4fWWjgB4nSlAWm80H0kitg6iPUGzw1KMb/6gxYCg=="/>
-                <enclosure url="https://github.com/IsaacYeung/giter-updates/releases/download/v0.5.4/Giter0.5.4-0.5.0.delta" sparkle:deltaFrom="0.5.0" length="1457742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YGppNnydL4IfebEBsVyZ0HndmthFKLAHJMP+xRlsRcJZvtavijarNsdoWfVhPcaklmEcQZonXmRzXOo3gz0nBA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.5.3</title>
@@ -23,14 +32,6 @@
             <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/IsaacYeung/giter-updates/releases/download/v0.5.3/Giter-0.5.3.zip" length="11462966" type="application/octet-stream" sparkle:edSignature="HPnAqvtMdXGX5Uws3s3/WbKivN/JrBtQ2sRrIFarMelH/5hls1BVnFrmMRZrjcqlq//drEJESElVIzmhFI6dAA=="/>
-        </item>
-        <item>
-            <title>0.5.2</title>
-            <pubDate>Thu, 16 Jul 2026 14:34:15 -0700</pubDate>
-            <sparkle:version>0.5.2</sparkle:version>
-            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/IsaacYeung/giter-updates/releases/download/v0.5.2/Giter-0.5.2.zip" length="11434177" type="application/octet-stream" sparkle:edSignature="MfjL5ligbfnEibq4sai9cZ294KYMC1gHfMsgn6vlF9eNo7EQr9Kj+3u4/98EUDoGLD98+XHAk91BfqGU87LDCA=="/>
         </item>
         <item>
             <title>0.5.1</title>
